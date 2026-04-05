@@ -45,6 +45,7 @@ On first run, `ft sync` extracts your X session from Chrome and downloads your b
 | `ft stats` | Top authors, languages, date range |
 | `ft list` | Filter by author, date, category, domain |
 | `ft show <id>` | Show one bookmark in detail |
+| `ft sample <category>` | Random sample from a category |
 | `ft index` | Merge new bookmarks into search index (preserves classifications) |
 | `ft auth` | Set up OAuth for API-based sync (optional) |
 | `ft sync --api` | Sync via OAuth API (cross-platform) |
